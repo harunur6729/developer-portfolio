@@ -53,3 +53,32 @@ h1{
     font-weight: 700;
     text-align: center;
 }
+.third-section{
+    margin-top: 100px;
+    padding-top: 20px;
+    background-image: url(image/bacground5.jpeg);
+    background-repeat: no-repeat;
+    background-position:left;
+    
+}
+.third-section-div{
+    display: flex;
+}
+.experience-iten{
+    box-shadow: 10px 10px 25px 20px rgb(208, 202, 202);
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+#full-stack-wen-developer{
+    border-left:solid 10px blue ;
+}
+#baby-developer{
+    border-left: solid 10px red;
+}
+footer p{
+    text-align: center;
+}
